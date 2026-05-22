@@ -332,20 +332,6 @@ This project demonstrates knowledge of:
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here after deployment.
-
-Example:
-
-```md
-![Login Page](./screenshots/login.png)
-
-![Dashboard](./screenshots/dashboard.png)
-```
-
----
-
 # 🤝 Contributing
 
 Contributions are welcome.

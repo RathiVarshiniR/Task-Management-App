@@ -1,6 +1,18 @@
-# Block .env in the root and ALL subfolders
-**/.env
+# Block env files in the root and ALL subfolders
 .env
+**/.env
+.env.*
+**/.env.*
+!.env.example
+!**/.env.example
+
+# Block private keys and local credentials
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+service-account*.json
 
 # Block node_modules everywhere
 **/node_modules/

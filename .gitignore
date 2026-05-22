@@ -1,0 +1,6 @@
+# Block .env in the root and ALL subfolders
+**/.env
+.env
+
+# Block node_modules everywhere
+**/node_modules/

@@ -13,7 +13,7 @@ A modern full-stack task management web application built using the MERN stack w
 - Protected Routes
 - Secure Password Hashing using bcrypt
 
----
+
 
 ## 📋 Task Management
 - Create Tasks

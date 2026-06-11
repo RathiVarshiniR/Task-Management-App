@@ -2,7 +2,7 @@
 
 A modern full-stack task management web application built using the MERN stack with secure authentication, dynamic task handling, responsive UI, and production-style architecture.
 
----
+
 
 # 🚀 Features
 
